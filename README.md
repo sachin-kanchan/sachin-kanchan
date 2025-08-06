@@ -12,9 +12,9 @@
 
 **Data Analyst | Machine Learning Enthusiast | Business Impact Driver**
 
-I'm passionate about transforming raw data into actionable business insights. With 4+ years of experience at L&T Technology Services, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects that saved over $450K.
+I'm passionate about transforming raw data into actionable business insights. With 5+ years of experience as a Data Analyst, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects.
 
-Currently pursuing **Post Graduate Program in Data Science** from IIIT-Bangalore while deepening my expertise in **Deep Learning** and **Google Cloud Platform**.
+Did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while deepening my expertise in **Machine Learning**.
 
 ---
 
