@@ -109,7 +109,7 @@ class DataAnalyst:
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sachin-kanchan&theme=tokyonight)](https://git.io/streak-stats)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-kanchan&theme=tokyo-night)](https://github.com/sachin-kanchan)
   
 </div>
 
