@@ -1,10 +1,26 @@
 # Hi there, I'm Sachin! 👋
+Data Analyst passionate about turning data into business insights! 
+
+## 🌟 Connect & Collaborate
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=sachin-kanchan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sachin-kanchan)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinkanchan)
-  [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sachin.kanchan/vizzes)
+**Let's discuss Data, Machine Learning, or Science Fiction! 🚀**
+
+Click on any of my profiles below to check out my work...
+
+
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinkanchan)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sachin.kanchan/vizzes)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sachinkanchan92)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sachin_kanchan)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sachin_kanchan)
+
+</div>
+
+
+---
   
 </div>
 
@@ -126,26 +142,11 @@ class DataAnalyst:
 
 ---
 
-## 🌟 Connect & Collaborate
-
-<div align="center">
-
-**Let's discuss data, machine learning, or space & sci-fi! 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinkanchan)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sachin.kanchan/vizzes)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sachinkanchan92)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sachin_kanchan)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sachin_kanchan)
-
-</div>
-
----
 
 <div align="center">
   
   *"Turning data into decisions, one insight at a time"* ✨
   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sachin-kanchan.sachin-kanchan)
-  
+ 
+  [![Profile Views](https://komarev.com/ghpvc/?username=sachin-kanchan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sachin-kanchan)
 </div>
