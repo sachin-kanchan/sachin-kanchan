@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-**Data Analyst | Machine Learning Enthusiast | Business Impact Driver**
+**Data Analytics | Data Science | Gen AI**
 
 I'm passionate about transforming raw data into actionable business insights. With 5+ years of experience as a Data Analyst, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects.
 
