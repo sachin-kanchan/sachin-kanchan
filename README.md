@@ -25,7 +25,6 @@ class DataAnalyst:
     def __init__(self):
         self.role = "Data Analyst & ML Engineer"
         self.current_focus = ["Deep Learning", "GCP", "MLOps"]
-        self.impact = "Delivered $450K+ in cost savings through data-driven insights"
     
     def get_expertise(self):
         return {
