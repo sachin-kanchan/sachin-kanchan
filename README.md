@@ -1,13 +1,11 @@
 # Hi there, I'm Sachin! 👋
-Data Analyst passionate about turning data into business insights! 
 
-## 🌟 Connect & Collaborate
 
 <div align="center">
   
-**Let's discuss Data, Machine Learning, or Science Fiction! 🚀**
+**And I like Data, Stock Markets, and Science Fiction! 🚀**
 
-Click on any of my profiles below to check out my work...
+click on any of my profiles below to check out my work...
 
 
   
