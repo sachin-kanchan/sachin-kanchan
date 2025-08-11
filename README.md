@@ -51,22 +51,27 @@ class DataAnalyst:
 
 ---
 
-## 🏆 Recent Achievements
+## 🏆 Recent Projects
 
-### 🎯 **Lead Conversion Prediction for EdTech** (Jan 2025)
+### 🔒 **Credit Card Fraud Detection** (Jun 2025 - Aug 2025)
+- Built XGBoost classifier achieving **88% AUPRC** and **97% ROC-AUC** on highly imbalanced dataset
+- Handled severe class imbalance (0.172% fraud) using advanced oversampling techniques (SMOTE, ADASYN)
+- **Impact**: 85% fraud recall with 94% precision - detecting 83 out of 98 fraudulent transactions
+- **Tech Stack**: Python, XGBoost, Scikit-learn, Advanced Sampling Methods
+
+
+### 📊 **Customer Segmentation using K-Means Clustering** (Feb 2025 - Mar 2025)
+- Developed RFM-based customer segmentation using K-Means and Hierarchical clustering
+- Identified 3 key customer segments: Champions, Potential Loyalists, At-Risk customers
+- **Impact**: Enabled targeted marketing strategies and personalized customer engagement
+- **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
+
+
+### 🎯 **Lead Conversion Predictive Modeling for X Education** (Jan 2025 - Feb 2025)
 - Built logistic regression model achieving **80% accuracy** and **0.85 ROC-AUC**
 - Designed lead scoring system (0-100) enabling sales team optimization
-- **Impact**: Improved conversion targeting for education company
-
-### 📊 **Bike Rental Demand Forecasting** (Dec 2024)
-- Developed multiple linear regression model with **78% R-squared**
-- Complete ML pipeline with EDA, feature selection, and model validation
-- **Tech Stack**: Python, Pandas, Scikit-learn, StatsModels
-
-### 💰 **Algorithmic Trading Model** (2023-2024)
-- **118% returns** over 5.5 years in Indian stock market
-- **21.45% annual returns** with **15.22% CAGR**
-- Comprehensive backtesting with Sharpe ratio and drawdown analysis
+- **Impact**: Improved conversion targeting for education company with 79% fraud recall
+- **Tech Stack**: Python, Logistic Regression, RFE Feature Selection
 
 ---
 
