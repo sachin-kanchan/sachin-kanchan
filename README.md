@@ -35,20 +35,16 @@ Did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while 
 ## 🚀 What I Do
 
 ```python
-class DataScientist:
+class DataScience:
     def __init__(self):
-        self.role = "Data Scientist & ML Engineer"
-        self.current_focus = ["Machine Learning", "Deep Learning", "Cloud Analytics"]
+        self.role = "Senior Data Analyst | Data Scientist"
+        self.expertise = ["EDA", "Imbalanced Classification", "Feature Engineering", "Model Optimization"]
+        self.algorithms = ["XGBoost", "Random Forest", "Logistic Regression", "K-Means", "SMOTE/ADASYN"]
+        self.statistical_methods = ["Hypothesis Testing", "Feature Selection (RFE/RFECV)", "Multicollinearity Analysis"]
+        self.model_optimization = ["GridSearchCV", "RFE", "ROC-AUC/AUPRC Evaluation"]
     
-    def get_core_skills(self):
-        return {
-            "statistical_analysis": ["Hypothesis Testing", "Statistical Modeling"],
-            "machine_learning": ["Supervised Learning", "Unsupervised Learning", "Feature Engineering"],
-            "data_preprocessing": ["Data Cleaning", "Outlier Detection", "Class Imbalance Handling"],
-            "model_evaluation": ["Cross-Validation", "Performance Metrics", "Model Selection"],
-            "business_intelligence": ["Dashboard Creation", "KPI Development", "Stakeholder Communication"],
-            "problem_solving": ["Root Cause Analysis", "Process Optimization", "Strategic Recommendations"]
-        }
+    def current_focus(self):
+        return ["Deep Learning", "MLOps", "Cloud Platforms", "Advanced Time Series Analysis"]
 ```
 
 ---
