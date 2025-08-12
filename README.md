@@ -75,16 +75,6 @@ class DataScientist:
 
 ---
 
-## 💼 Professional Impact
-
-| Project | Impact | Duration |
-|---------|--------|----------|
-| **Resource Usage Optimization** | 30% office space reduction (370 employees) | 13 months |
-| **Supplier Consolidation** | $140K saved in 12 months, $320K projected | 27 months |
-| **HVAC Data Rationalization** | 44K components optimized, team of 8 | 17 months |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
