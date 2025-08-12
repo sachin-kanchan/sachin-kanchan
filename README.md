@@ -35,17 +35,19 @@ Did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while 
 ## 🚀 What I Do
 
 ```python
-class DataAnalyst:
+class DataScientist:
     def __init__(self):
-        self.role = "Data Analyst & ML Engineer"
-        self.current_focus = ["Deep Learning", "GCP", "MLOps"]
+        self.role = "Data Scientist & ML Engineer"
+        self.current_focus = ["Machine Learning", "Deep Learning", "Cloud Analytics"]
     
-    def get_expertise(self):
+    def get_core_skills(self):
         return {
-            "analytics": ["Python", "SQL", "Statistical Modeling"],
-            "ml": ["Predictive Modeling", "Feature Engineering", "Model Optimization"],
-            "tools": ["Tableau", "Snowflake", "Git"],
-            "domains": ["Financial Markets", "EdTech", "Supply Chain"]
+            "statistical_analysis": ["Hypothesis Testing", "Statistical Modeling"],
+            "machine_learning": ["Supervised Learning", "Unsupervised Learning", "Feature Engineering"],
+            "data_preprocessing": ["Data Cleaning", "Outlier Detection", "Class Imbalance Handling"],
+            "model_evaluation": ["Cross-Validation", "Performance Metrics", "Model Selection"],
+            "business_intelligence": ["Dashboard Creation", "KPI Development", "Stakeholder Communication"],
+            "problem_solving": ["Root Cause Analysis", "Process Optimization", "Strategic Recommendations"]
         }
 ```
 
@@ -53,25 +55,23 @@ class DataAnalyst:
 
 ## 🏆 Recent Projects
 
-### 🔒 [Credit Card Fraud Detection](https://github.com/sachin-kanchan/credit-card-fraud-detection) (Jun 2025 - Aug 2025)
+### 🔒 **[Credit Card Fraud Detection](https://github.com/sachin-kanchan/credit-card-fraud-detection)** (Jan 2025)
 - Built XGBoost classifier achieving **88% AUPRC** and **97% ROC-AUC** on highly imbalanced dataset
 - Handled severe class imbalance (0.172% fraud) using advanced oversampling techniques (SMOTE, ADASYN)
 - **Impact**: 85% fraud recall with 94% precision - detecting 83 out of 98 fraudulent transactions
 - **Tech Stack**: Python, XGBoost, Scikit-learn, Advanced Sampling Methods
 
-
-### 📊 [Customer Segmentation using K-Means Clustering](https://github.com/sachin-kanchan/kmeans_clustering_customer_segmentation) (Feb 2025 - Mar 2025)
-- Developed RFM-based customer segmentation using K-Means and Hierarchical clustering
-- Identified 3 key customer segments: Champions, Potential Loyalists, At-Risk customers
-- **Impact**: Enabled targeted marketing strategies and personalized customer engagement
-- **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
-
-
-### 🎯 [Lead Conversion Predictive Modeling for X Education](https://github.com/sachin-kanchan/lead-conversion-prediction) (Jan 2025 - Feb 2025)
+### 🎯 **[Lead Conversion Predictive Modeling for X Education](https://github.com/sachin-kanchan/lead-conversion-prediction)** (Jan 2025)
 - Built logistic regression model achieving **80% accuracy** and **0.85 ROC-AUC**
 - Designed lead scoring system (0-100) enabling sales team optimization
 - **Impact**: Improved conversion targeting for education company with 79% fraud recall
 - **Tech Stack**: Python, Logistic Regression, RFE Feature Selection
+
+### 📊 **[Customer Segmentation using K-Means Clustering](https://github.com/sachin-kanchan/kmeans_clustering_customer_segmentation)** (Jan 2025)
+- Developed RFM-based customer segmentation using K-Means and Hierarchical clustering
+- Identified 3 key customer segments: Champions, Potential Loyalists, At-Risk customers
+- **Impact**: Enabled targeted marketing strategies and personalized customer engagement
+- **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
 
 ---
 
@@ -89,31 +89,34 @@ class DataAnalyst:
 
 <div align="center">
 
-### **Languages & Analytics**
+### **Programming & Data Analytics**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Machine Learning & Visualization**
+### **Machine Learning & Advanced Analytics**
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![StatsModels](https://img.shields.io/badge/-StatsModels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+### **Data Visualization & BI Tools**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### **Data Engineering & Cloud**
+### **Cloud & Data Platforms**
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Development & Workflow**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
