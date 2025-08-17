@@ -56,6 +56,11 @@ class DataScience:
 - **Impact**: 85% fraud recall with 94% precision - detecting 83 out of 98 fraudulent transactions
 - **Tech Stack**: Python, XGBoost, Scikit-learn, Advanced Sampling Methods
 
+### 🧠 **[AI-Powered Q&A on Legal Documents](https://github.com/sachin-kanchan/RAG-Legal-Documents)**
+- Built a Retrieval-Augmented Generation (RAG) system to accurately query and extract insights from dense legal documents.
+- Achieved a **Faithfulness score of 0.95** using the RAGAS framework, ensuring answers are factually grounded in the source material.
+- **Impact**: Enabled efficient and reliable information retrieval from complex, unstructured text, significantly reducing manual search time.
+- **Tech Stack**: Python, LangChain, OpenAI API, RAGAS, ChromaDB
 
 ### 📞 **[Telecom Customer Churn Prediction & Analysis](https://github.com/sachin-kanchan/Telecom-Customer-Churn-Analysis)**
 - Built a Random Forest model achieving **0.86 AUC** to predict churn for high-value telecom customers.
@@ -63,19 +68,11 @@ class DataScience:
 - **Impact**: Created a risk-based scoring system (High, Medium, Low) to prioritize retention efforts and an actionable strategy to reduce churn.
 - **Tech Stack**: Python, Scikit-learn, PCA, SMOTE, Feature Engineering
 
-
 ### 📊 **[Customer Segmentation using K-Means Clustering](https://github.com/sachin-kanchan/kmeans_clustering_customer_segmentation)**
 - Developed RFM-based customer segmentation using K-Means and Hierarchical clustering
 - Identified 3 key customer segments: Champions, Potential Loyalists, At-Risk customers
 - **Impact**: Enabled targeted marketing strategies and personalized customer engagement
 - **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
-
-
-### 🎯 **[Lead Conversion Predictive Modeling for X Education](https://github.com/sachin-kanchan/lead-conversion-prediction)**
-- Built logistic regression model achieving **80% accuracy** and **0.85 ROC-AUC**
-- Designed lead scoring system (0-100) enabling sales team optimization
-- **Impact**: Improved conversion targeting for education company with 79% fraud recall
-- **Tech Stack**: Python, Logistic Regression, RFE Feature Selection
 
 ---
 
