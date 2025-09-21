@@ -63,7 +63,7 @@ I did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore whil
 - **Impact**: Enabled targeted marketing strategies and personalized customer engagement
 - **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
 
-### 📈 Algorithmic Trading Strategy (Private Project)
+### 📈 Algorithmic Trading Strategy for Nifty100
 - Designed and backtested a high-performance algorithmic trading model on Nifty 100 stocks using quantitative and predictive analytics
 - Leveraged a combination of technical indicators for precise market timing and evaluated resilience using Sharpe ratio and drawdown analysis
 - **Impact**: Achieved a **118% cumulative return** over a 5.5-year backtest, delivering a **21.45% average annual return** and significantly outperforming benchmarks
