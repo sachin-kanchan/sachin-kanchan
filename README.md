@@ -23,28 +23,11 @@ click on any of my profiles below to check out my work...
 
 ## 🎯 About Me
 
-**Data Analytics | Data Science | Gen AI**
+**Data Science | Machine Learning | Gen AI**  
 
 I'm passionate about transforming raw data into actionable business insights. With 5+ years of experience as a Data Analyst, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects.
 
-Did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while deepening my expertise in **Machine Learning**.
-
----
-
-## 🚀 What I Do
-
-```python
-class DataScience:
-    def __init__(self):
-        self.role = "Senior Data Analyst | Data Scientist"
-        self.expertise = ["EDA", "Imbalanced Classification", "Feature Engineering", "Model Optimization"]
-        self.algorithms = ["XGBoost", "Random Forest", "Logistic Regression", "K-Means", "SMOTE/ADASYN"]
-        self.statistical_methods = ["Hypothesis Testing", "Feature Selection (RFE/RFECV)", "Multicollinearity Analysis"]
-        self.model_optimization = ["GridSearchCV", "RFE", "ROC-AUC/AUPRC Evaluation"]
-    
-    def current_focus(self):
-        return ["Deep Learning", "MLOps", "Cloud Platforms", "Advanced Time Series Analysis"]
-```
+I did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while deepening my expertise in **Machine Learning**.
 
 ---
 
