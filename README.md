@@ -33,29 +33,41 @@ I did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore whil
 
 ## 🏆 Recent Projects
 
-### 🔒 **[Credit Card Fraud Detection](https://github.com/sachin-kanchan/credit-card-fraud-detection)**
+### 💳 [Credit Card Fraud Detection](https://github.com/sachin-kanchan/credit-card-fraud-detection)
 - Built XGBoost classifier achieving **88% AUPRC** and **97% ROC-AUC** on highly imbalanced dataset
 - Handled severe class imbalance (0.172% fraud) using advanced oversampling techniques (SMOTE, ADASYN)
 - **Impact**: 85% fraud recall with 94% precision - detecting 83 out of 98 fraudulent transactions
 - **Tech Stack**: Python, XGBoost, Scikit-learn, Advanced Sampling Methods
 
-### 🧠 **[AI-Powered Q&A on Legal Documents](https://github.com/sachin-kanchan/RAG-Legal-Documents)**
-- Built a Retrieval-Augmented Generation (RAG) system to accurately query and extract insights from dense legal documents.
-- Achieved a **Faithfulness score of 0.95** using the RAGAS framework, ensuring answers are factually grounded in the source material.
-- **Impact**: Enabled efficient and reliable information retrieval from complex, unstructured text, significantly reducing manual search time.
+### 🏦 [Loan Default Risk Analysis](https://github.com/sachin-kanchan/loan-default-risk-analysis)
+- Conducted a comprehensive Exploratory Data Analysis on a large-scale financial dataset to identify the primary drivers of default risk
+- Engineered features from **1.6 million historical loan records** to analyze the impact of past borrowing behavior on current risk
+- **Impact**: Uncovered that applicant stability (education, occupation) and behavioral flags were stronger predictors than simple financial metrics, informing a more nuanced risk assessment strategy
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, EDA
+
+### 🧠 [AI-Powered Q&A on Legal Documents](https://github.com/sachin-kanchan/RAG-Legal-Documents)
+- Built a Retrieval-Augmented Generation (RAG) system to accurately query and extract insights from dense legal documents
+- Achieved a **Faithfulness score of 0.95** using the RAGAS framework, ensuring answers are factually grounded in the source material
+- **Impact**: Enabled efficient and reliable information retrieval from complex, unstructured text, significantly reducing manual search time
 - **Tech Stack**: Python, LangChain, OpenAI API, RAGAS, ChromaDB
 
-### 📞 **[Telecom Customer Churn Prediction & Analysis](https://github.com/sachin-kanchan/Telecom-Customer-Churn-Analysis)**
-- Built a Random Forest model achieving **0.86 AUC** to predict churn for high-value telecom customers.
-- Engineered powerful `delta` features to capture critical changes in customer spending and usage behavior over time.
-- **Impact**: Created a risk-based scoring system (High, Medium, Low) to prioritize retention efforts and an actionable strategy to reduce churn.
+### 📞 [Telecom Customer Churn Prediction & Analysis](https://github.com/sachin-kanchan/Telecom-Customer-Churn-Analysis)
+- Built a Random Forest model achieving **0.86 AUC** to predict churn for high-value telecom customers
+- Engineered powerful `delta` features to capture critical changes in customer spending and usage behavior over time
+- **Impact**: Created a risk-based scoring system (High, Medium, Low) to prioritize retention efforts and an actionable strategy to reduce churn
 - **Tech Stack**: Python, Scikit-learn, PCA, SMOTE, Feature Engineering
 
-### 📊 **[Customer Segmentation using K-Means Clustering](https://github.com/sachin-kanchan/kmeans_clustering_customer_segmentation)**
+### 📊 [Customer Segmentation using K-Means Clustering](https://github.com/sachin-kanchan/kmeans_clustering_customer_segmentation)
 - Developed RFM-based customer segmentation using K-Means and Hierarchical clustering
 - Identified 3 key customer segments: Champions, Potential Loyalists, At-Risk customers
 - **Impact**: Enabled targeted marketing strategies and personalized customer engagement
 - **Tech Stack**: Python, K-Means, Hierarchical Clustering, RFM Analysis
+
+### 📈 Algorithmic Trading Strategy (Private Project)
+- Designed and backtested a high-performance algorithmic trading model on Nifty 100 stocks using quantitative and predictive analytics
+- Leveraged a combination of technical indicators for precise market timing and evaluated resilience using Sharpe ratio and drawdown analysis
+- **Impact**: Achieved a **118% cumulative return** over a 5.5-year backtest, delivering a **21.45% average annual return** and significantly outperforming benchmarks
+- **Tech Stack**: Python, Pandas, NumPy, TA-Lib, Quantitative Analytics, AWS
 
 ---
 
