@@ -26,7 +26,7 @@ click on any of my profiles below to check out my work...
 
 **Data Science | Machine Learning | Gen AI**  
 
-I'm passionate about transforming raw data into actionable business insights. With 5+ years of experience as a Data Analyst, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects.
+I enjoy uncovering patterns hidden in data and shaping them into stories that help businesses make smarter decisions. With 4+ years of experience as a Data Analyst, I've delivered impactful solutions including predictive models for lead conversion, demand forecasting, and cost optimization projects.
 
 I did my **Post Graduate Diploma in Data Science & AI** from IIIT-Bangalore while deepening my expertise in **Machine Learning**.
 
